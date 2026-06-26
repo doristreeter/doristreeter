@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, my name is Dori. I am a high school student based in Chicago driven by a passion for technology, data, and saving the environment. Overall, I am focused on exploring the intersection of data science, artificial intelligence, and sustainability. I believe that as AI continues to transform our world, it is crucial that we build technology responsibly and actively work to minimize its environmental footprint.
+- I go to Whitney Young Magnet High School
+- Pronouns: she/her
+- Fun facts: I love ceramics and playing lacrosse!
